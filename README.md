@@ -6,7 +6,7 @@ Today attrition is one of the major problems faced by industry across the world.
 
 Aim of the project: To identify the feature affecting employee’s attrition and predict the future attrition.
 
-Objectives of the project:  The reasons for the attrition are somehow complicated, and that they differ from organization to organization and from country to country, reckoning on the work culture. The main objective of the project is to find out the features affecting attrition and how we can reduce the attrition rate in the future.
+Objectives of the project:  The main objective of the project is to find out the features affecting attrition and how we can reduce the attrition rate in the future.
 
 Countplot is basically a count of frequency plot in form of a bar graph. It plots the count of each category in a separate bar. When we use the pandas’ value counts function on any column, It is the same visual form of the value counts function. In our data-target variable is left and it is categorical so  we used countplot
 
